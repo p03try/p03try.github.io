@@ -1,20 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Karyna Bydnuk</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Karyna Bydnuk</description>
+    <title>Bydnuk K</title>
+    <link>https://p03try.github.io/</link>
+    <description>Recent content on Bydnuk K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Jul 2022 22:00:04 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 22:00:04 +0200</lastBuildDate><atom:link href="https://p03try.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Життєвий недуг</title>
-      <link>http://example.org/poetry/hello/</link>
+      <link>https://p03try.github.io/poetry/hello/</link>
       <pubDate>Sun, 31 Jul 2022 22:00:04 +0200</pubDate>
       
-      <guid>http://example.org/poetry/hello/</guid>
+      <guid>https://p03try.github.io/poetry/hello/</guid>
       <description>Ти знаєш, що сталося, ти знаєш, що буде, Але так по-дитяче наївно думало пройде. Думала, що не образять знову, Вірила, що усе буде добрею Писала смс про наболіле, Писала, те про, що йшли мрії.
-Так тих</description>
+Так тихо і мирно прийшли i прибрали, Все доре, що булою Все, що мало бути. І десь тихо вночі, ще серце поболить та перестане.
+Дякую доле, що оберігаєш мене від падлюк. А їм - удачі! З цим жити - життєвий недуг.</description>
+    </item>
+    
+    <item>
+      <title>Без названия</title>
+      <link>https://p03try.github.io/poetry/no-name/</link>
+      <pubDate>Wed, 23 Feb 2022 11:14:03 +0200</pubDate>
+      
+      <guid>https://p03try.github.io/poetry/no-name/</guid>
+      <description>Я отпускаю всех и вся,
+Меня больше ничего не держит.
+Прекрасное чувство чнова дышать,
+жить свободно и петь песни.
+Больше нет зыцикленности ни на чем,
+Есть только миг,
+повторится ли что-то - уже не факт,
+Будет что-то - тоже нелепость.
+Идёт весна и новая любовь.
+Но что-то дуржит.
+Ты вновь идёшь в те чамые края,
+Ты вновь там, что же такого,
+Кто тебя там держит?
+Ответ прост: твои мысли.
+Ты так упорно возваращаешься назад,</description>
     </item>
     
   </channel>
